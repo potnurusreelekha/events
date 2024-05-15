@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.registration-status {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 40%;
+  height: 100vh;
+}
+.view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+.yet-to-register-img {
+  width: 90%;
+  max-width: 450px;
+}
+.description {
+  text-align: center;
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 20px;
+  margin: 0px;
+  margin-top: 48px;
+}
+register-here-btn {
+  text-align: center;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  width: 90%;
+  border: none;
+}
+.registered-img {
+  width: 80%;
+  max-width: 100px;
+}
+.heading {
+  text-align: center;
+  color: #323f4b;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0px;
+  margin-top: 40px;
+}
+registrations-closed-img {
+  width: 80%;
+  max-width: 400px;
+}
